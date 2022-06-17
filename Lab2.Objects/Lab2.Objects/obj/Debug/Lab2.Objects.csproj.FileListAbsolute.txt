@@ -1,0 +1,6 @@
+D:\Лабораторные 4 семестр\c_sharp\Lab2.Objects\Lab2.Objects\bin\Debug\Lab2.Objects.dll
+D:\Лабораторные 4 семестр\c_sharp\Lab2.Objects\Lab2.Objects\bin\Debug\Lab2.Objects.pdb
+D:\Лабораторные 4 семестр\c_sharp\Lab2.Objects\Lab2.Objects\obj\Debug\Lab2.Objects.csprojAssemblyReference.cache
+D:\Лабораторные 4 семестр\c_sharp\Lab2.Objects\Lab2.Objects\obj\Debug\Lab2.Objects.csproj.CoreCompileInputs.cache
+D:\Лабораторные 4 семестр\c_sharp\Lab2.Objects\Lab2.Objects\obj\Debug\Lab2.Objects.dll
+D:\Лабораторные 4 семестр\c_sharp\Lab2.Objects\Lab2.Objects\obj\Debug\Lab2.Objects.pdb
